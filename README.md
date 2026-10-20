@@ -95,7 +95,7 @@ const chalindu = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=chalindu888&theme=tokyonight&no-frame=true&row=2&column=6)
+![GitHub Trophies](./profile/trophy.svg)
 
 </div>
 
