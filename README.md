@@ -95,7 +95,7 @@ const chalindu = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chalindu888&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chalindu888&theme=flat&no-frame=true&no-bg=true&row=2&column=6)
 
 </div>
 
