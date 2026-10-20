@@ -95,7 +95,7 @@ const chalindu = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chalindu888&theme=flat&no-frame=true&no-bg=true&row=2&column=6)
+![GitHub Trophies](https://github-profile-trophy-reiyua-mirror.vercel.app/?username=chalindu888&theme=tokyonight&no-frame=true&row=2&column=6)
 
 </div>
 
